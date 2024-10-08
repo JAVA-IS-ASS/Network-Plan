@@ -9,12 +9,16 @@ Agenda:
 • Plan Implementation
 • Security Implementation
 • Remote Access
-Purpose:
-The network plan uses a hierarchical model
-with core, distribution, and access layers to
-ensure high-speed and secure connectivity
-across all campuses. The core layer switches
-are Cisco Nexus 9000 Series, the distribution
-layer switches are Cisco Catalyst 9500 Series,
-and the access layer switches are Cisco
-Catalyst 9300 Series.
+## Requirements
+
+To run the network simulation for this project, you will need Cisco Packet Tracer installed on your computer. This tool allows you to create, configure, and simulate network devices and configurations effectively.
+
+### Installation Instructions for Cisco Packet Tracer
+
+1. Visit the [Cisco Networking Academy](https://www.netacad.com/courses/packet-tracer) website.
+2. Sign up for a free account if you don't already have one.
+3. Download the latest version of Cisco Packet Tracer for your operating system.
+4. Follow the installation instructions provided on the website to install Packet Tracer.
+
+Once installed, you can open the project file in Packet Tracer to explore and interact with the network setup.
+
